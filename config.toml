@@ -2,5 +2,14 @@ baseURL = 'https://phoenixsun17.github.io/PhoenixM/'
 languageCode = 'en-us'
 title = '白银之海'
 theme = "paperMod" 
+paginate: 5
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+# googleAnalytics: UA-123-45
+
 
 enableInlineShortcodes: true
