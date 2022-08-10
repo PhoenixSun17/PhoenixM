@@ -1,0 +1,12 @@
+baseURL: 'https://phoenixsun17.github.io/PhoenixM/'
+languageCode: en-us
+title: 白银之海
+theme: paperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
